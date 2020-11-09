@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+    background-image: url(imagenes/possback2.png);
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+};
+
+font-face{
+    font-family: lemon_brush;
+    src:url(OneDrive\Desktop\tipografias/lemon_brush.zip)
+}
+
+h1{
+    font-family: lemon_brush;
+}
